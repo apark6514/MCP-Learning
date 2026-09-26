@@ -8,7 +8,7 @@ This repo collects my experiments building MCP servers, clients and integrations
 
 | Project | Type | Language | Description | Status |
 | ------- | ---- | -------- | ----------- | ------ |
-| _(none yet)_ | | | | |
+| [project_1](./project_1) | Script (warm-up) | Python | Calls the [OpenSky Network](https://openskynetwork.github.io/opensky-api/rest.html) REST API and prints live flights over Switzerland as a readable table. A Python and REST API refresher before wrapping an API as an MCP server. Run with `pip install requests` then `python project_1/main.py` | ✅ Done |
 
 <!--
 Example row:
