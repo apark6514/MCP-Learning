@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "project_2/.venv/Scripts/python.exe",
+      "args": ["project_2/main.py"]
+    }
+  }
+}
