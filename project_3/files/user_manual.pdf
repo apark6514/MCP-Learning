@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 476 >>
+stream
+BT /F2 18 Tf 72 740 Td (SmartLamp X1 - User Manual) Tj ET
+BT /F1 12 Tf 72 705 Td (1. Getting Started) Tj ET
+BT /F1 12 Tf 72 687 Td (Plug the lamp into a standard outlet and hold the power button for 3 seconds.) Tj ET
+BT /F1 12 Tf 72 669 Td (The ring light will blink blue when ready to pair.) Tj ET
+BT /F1 12 Tf 72 651 Td () Tj ET
+BT /F1 12 Tf 72 633 Td (2. Pairing) Tj ET
+BT /F1 12 Tf 72 615 Td (Open the SmartLamp app and tap 'Add Device'. Follow the on-screen steps.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 345 >>
+stream
+BT /F2 18 Tf 72 740 Td (Troubleshooting) Tj ET
+BT /F1 12 Tf 72 705 Td (Lamp does not turn on: check the outlet and the power cable.) Tj ET
+BT /F1 12 Tf 72 687 Td (Blinking red light: firmware update failed; hold power for 10 seconds to reset.) Tj ET
+BT /F1 12 Tf 72 669 Td (Cannot pair: make sure your phone is on a 2.4 GHz Wi-Fi network.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 282 >>
+stream
+BT /F2 18 Tf 72 740 Td (Specifications) Tj ET
+BT /F1 12 Tf 72 705 Td (Power: 9W LED) Tj ET
+BT /F1 12 Tf 72 687 Td (Brightness: 800 lumens) Tj ET
+BT /F1 12 Tf 72 669 Td (Color temperature: 2700K - 6500K) Tj ET
+BT /F1 12 Tf 72 651 Td (Connectivity: Wi-Fi 2.4 GHz, Bluetooth 5.0) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000128 00000 n 
+0000000198 00000 n 
+0000000273 00000 n 
+0000000800 00000 n 
+0000000936 00000 n 
+0000001332 00000 n 
+0000001468 00000 n 
+0000001801 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+1938
+%%EOF

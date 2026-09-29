@@ -1,0 +1,10 @@
+2026-09-27 08:00:01 INFO  Server starting on port 8080
+2026-09-27 08:00:02 INFO  Connected to database 'app_prod'
+2026-09-27 08:15:43 INFO  GET /api/users 200 12ms
+2026-09-27 08:16:10 WARN  Slow query detected: SELECT * FROM orders (1320ms)
+2026-09-27 08:30:05 INFO  POST /api/orders 201 45ms
+2026-09-27 09:02:17 ERROR Failed to send email to user_id=5821: SMTP timeout
+2026-09-27 09:02:18 INFO  Retrying email send (attempt 2/3)
+2026-09-27 09:02:20 INFO  Email sent to user_id=5821
+2026-09-27 10:45:00 INFO  Cache cleared (1,204 keys)
+2026-09-27 12:00:00 INFO  Health check OK

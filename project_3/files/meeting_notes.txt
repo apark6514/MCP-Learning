@@ -1,0 +1,12 @@
+Team Meeting Notes - 2026-09-21
+Attendees: Alex, Jordan, Sam, Riley
+
+1. Sprint review
+   - Login page redesign shipped to staging.
+   - Search latency down from 420ms to 180ms.
+2. Blockers
+   - Waiting on API keys from the payments vendor.
+3. Action items
+   - Jordan: write migration script for user table.
+   - Sam: update onboarding docs.
+   - Riley: schedule load test for next Tuesday.

@@ -1,0 +1,7 @@
+date,city,high_f,low_f,precip_in,conditions
+2026-09-20,Seattle,68,54,0.12,Rain
+2026-09-20,Phoenix,101,78,0.0,Sunny
+2026-09-21,Seattle,65,52,0.4,Rain
+2026-09-21,Phoenix,99,77,0.0,Sunny
+2026-09-22,Seattle,70,55,0.0,Cloudy
+2026-09-22,Phoenix,97,75,0.05,Partly Cloudy

@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 611 >>
+stream
+BT /F2 18 Tf 72 740 Td (Project Proposal: File Reader MCP) Tj ET
+BT /F1 12 Tf 72 705 Td (Summary) Tj ET
+BT /F1 12 Tf 72 687 Td (Build an MCP server that lets an AI assistant read local files) Tj ET
+BT /F1 12 Tf 72 669 Td (such as PDFs, CSVs, text files, and images.) Tj ET
+BT /F1 12 Tf 72 651 Td () Tj ET
+BT /F1 12 Tf 72 633 Td (Goals) Tj ET
+BT /F1 12 Tf 72 615 Td (- List files in a sandboxed directory) Tj ET
+BT /F1 12 Tf 72 597 Td (- Extract text from PDF and TXT files) Tj ET
+BT /F1 12 Tf 72 579 Td (- Parse CSV files into rows) Tj ET
+BT /F1 12 Tf 72 561 Td (- Return PNG images for visual inspection) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 456 >>
+stream
+BT /F2 18 Tf 72 740 Td (Timeline) Tj ET
+BT /F1 12 Tf 72 705 Td (Week 1: Scaffold server and list_files tool) Tj ET
+BT /F1 12 Tf 72 687 Td (Week 2: Add readers for each file type) Tj ET
+BT /F1 12 Tf 72 669 Td (Week 3: Error handling and tests) Tj ET
+BT /F1 12 Tf 72 651 Td () Tj ET
+BT /F1 12 Tf 72 633 Td (Risks) Tj ET
+BT /F1 12 Tf 72 615 Td (- Large files may exceed context limits) Tj ET
+BT /F1 12 Tf 72 597 Td (- Scanned PDFs contain no text layer) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000928 00000 n 
+0000001064 00000 n 
+0000001571 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+1707
+%%EOF

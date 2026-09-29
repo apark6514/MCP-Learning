@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 722 >>
+stream
+BT /F2 18 Tf 72 740 Td (Invoice #1042) Tj ET
+BT /F1 12 Tf 72 705 Td (Date: 2026-09-15) Tj ET
+BT /F1 12 Tf 72 687 Td (Bill to: Acme Corp, 123 Main St, Springfield) Tj ET
+BT /F1 12 Tf 72 669 Td () Tj ET
+BT /F1 12 Tf 72 651 Td (Web design services \(20 hrs @ $95\)      $1,900.00) Tj ET
+BT /F1 12 Tf 72 633 Td (Hosting - annual plan                     $240.00) Tj ET
+BT /F1 12 Tf 72 615 Td (Domain renewal                             $15.00) Tj ET
+BT /F1 12 Tf 72 597 Td () Tj ET
+BT /F1 12 Tf 72 579 Td (Subtotal: $2,155.00) Tj ET
+BT /F1 12 Tf 72 561 Td (Tax \(8%\): $172.40) Tj ET
+BT /F1 12 Tf 72 543 Td (Total due: $2,327.40) Tj ET
+BT /F1 12 Tf 72 525 Td () Tj ET
+BT /F1 12 Tf 72 507 Td (Payment due within 30 days.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000001033 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1169
+%%EOF
